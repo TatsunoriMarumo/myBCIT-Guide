@@ -1,0 +1,29 @@
+site_name: How to use myBCIT
+theme: 
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.links
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: lightbulb_outline
+        name: Switch to Dark Mode
+      primary: teal
+      accent: purple
+    - scheme: slate
+      toggle:
+        icon: lightbulb_outline
+        name: Switch to Light Mode
+      primary: teal
+      accent: lime
+
+
