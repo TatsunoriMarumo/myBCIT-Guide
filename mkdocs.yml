@@ -15,15 +15,21 @@ theme:
   palette:
     - scheme: default
       toggle:
-        icon: lightbulb_outline
+        icon: material/toggle-switch-off-outline
         name: Switch to Dark Mode
       primary: teal
       accent: purple
     - scheme: slate
       toggle:
-        icon: lightbulb_outline
+        icon: material/toggle-switch
         name: Switch to Light Mode
       primary: teal
       accent: lime
 
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/TatsunoriMarumo/HowToUseMyBCIT
 
+copyright: 
+  &copy 2024 Momona Wada, and Tatsunori Marumo  
