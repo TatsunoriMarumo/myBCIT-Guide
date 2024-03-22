@@ -31,5 +31,10 @@ extra:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/TatsunoriMarumo/HowToUseMyBCIT
 
+markdown_extensions:
+  - admonition
+  - footnotes
+  - attr_list
+
 copyright: 
-  &copy 2024 <a href="https://github.com/Momona-Wada" target="_blank" rel="noopner">Momona Wada</a>, and <a href="https://github.com/TatsunoriMarumo" target="_blank" rel="noopner">Tatsunori Marumo</a>
+  &copy 2024 <a href="https://github.com/Momona-Wada" target="_blank" rel="noopener">Momona Wada</a>, and <a href="https://github.com/TatsunoriMarumo" target="_blank" rel="noopener">Tatsunori Marumo</a>
