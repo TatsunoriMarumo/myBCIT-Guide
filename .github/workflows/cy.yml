@@ -17,6 +17,6 @@ jobs:
       - uses: actions/cache@v2
         with:
           key: ${{ github.ref }}
-          path: cache
+          path: .cache
       - run: pip install mkdocs-material
       - run: mkdocs gh-deploy --force
