@@ -22,9 +22,9 @@ This documentation is targeted towards the following users:
 ## Overview
 The main sections of this documentation are summarized below:
 
-- Pay commitment fee and tuition
-- Set up BCIT email
-- Apply for U-Pass
+- **[Paying commitment fee and tuition](paying-tuition)**
+- **[Setting up BCIT email](setting-up-email)**
+- **[Applying for U-Pass](applying-for-upass.md)**
 
 ## Important Messages
 !!! note 
