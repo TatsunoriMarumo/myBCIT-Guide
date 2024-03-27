@@ -13,3 +13,4 @@
 | **ACCOUNT NUMBER** | |
 | **Verification code** | |
 | **BILL**  | |
+| **Compass card**| |

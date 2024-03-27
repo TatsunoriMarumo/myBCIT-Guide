@@ -15,6 +15,7 @@ This documentation is targeted towards the following users:
 
 ## Requirements
 - Holding an acceptance letter to BCIT's full-time program
+- Having a compass card
 - Owing a Canadian bank account
 - Living in Canada
 - Having access to myBCIT account(https://my.bcit.ca/)
