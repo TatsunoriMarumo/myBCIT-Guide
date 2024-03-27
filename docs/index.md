@@ -28,7 +28,7 @@ The main sections of this documentation are summarized below:
 
 ## Important Messages
 !!! note 
-    Indicates additional or tips
+    Indicates additional information or tips
 
 !!! success
     Indicates what success looks like
