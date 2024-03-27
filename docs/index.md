@@ -15,7 +15,7 @@ This documentation is targeted towards the following users:
 - Holding an acceptance letter to BCIT's full-time program
 - Owing a Canadian bank account
 - Living in Canada
-- Ability to myBCIT account(https://my.bcit.ca/)
+- Having access to myBCIT account(https://my.bcit.ca/)
 
 ## Overview
 
