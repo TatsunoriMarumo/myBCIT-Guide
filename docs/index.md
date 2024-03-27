@@ -26,5 +26,10 @@ The main sections of this documentation are summarized below:
 - Set up BCIT email
 - Apply for U-Pass
 
+## Important Messages
+!!! note 
+    Indicates additional or tips
 
+!!! success
+    Indicates what success looks like
 
