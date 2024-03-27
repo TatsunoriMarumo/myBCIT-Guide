@@ -20,5 +20,11 @@ This documentation is targeted towards the following users:
 - Having access to myBCIT account(https://my.bcit.ca/)
 
 ## Overview
+The main sections of this documentation are summarized below:
+
+- Pay commitment fee and tuition
+- Set up BCIT email
+- Apply for U-Pass
+
 
 
