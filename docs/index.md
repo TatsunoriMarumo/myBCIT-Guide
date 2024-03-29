@@ -34,3 +34,5 @@ The main sections of this documentation are summarized below:
 !!! success
     Indicates what success looks like
 
+!!! warning
+    Specifies what must be checked before proceeding
