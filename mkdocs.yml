@@ -1,8 +1,17 @@
 site_name: How to use myBCIT
+
+nav:
+  - Home: index.md
+  - Paying tuition: paying-tuition.md
+  - Setting up myBCIT email: setting-up-email.md
+  - Applying for U-Pass: applying-for-upass.md
+  - Troubleshooting: troubleshooting.md
+  - Glossary: glossary.md
+
 theme: 
   name: material
   features:
-    # - navigation.tabs
+    - navigation.tabs
     - navigation.sections
     - toc.integrate
     - navigation.top
@@ -26,27 +35,60 @@ theme:
       primary: indigo
       accent: yellow
 
+markdown_extensions:
+  - toc:
+      toc_depth: 3
+  - attr_list
+  - footnotes
+  - admonition
+  - codehilite
+  - def_list
+  - pymdownx.critic:
+      mode: view
+  - pymdownx.betterem:
+      smart_enable: all
+
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.keys
+  - pymdownx.details
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.smartsymbols
+  - pymdownx.tabbed
+  - pymdownx.highlight:
+      linenums: true # Line numbering
+      linenums_style: pymdownx.inline
+      use_pygments: false
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+# Necessary for search to work properly
+include_search_page: false
+search_index_only: true
+
+# Plugins
+plugins:
+  - search:
+      lang: en
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/highlight.min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+
+extra_css:
+  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/styles/default.min.css
+
 extra:
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/TatsunoriMarumo/HowToUseMyBCIT
-
-markdown_extensions:
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - admonition
-  - pymdownx.arithmatex:
-      generic: true
-  - footnotes
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.mark
-  - attr_list
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
 
 copyright: 
   Copyright &copy 2024 <a href="https://github.com/Momona-Wada" target="_blank" rel="noopener">Momona Wada</a>, and <a href="https://github.com/TatsunoriMarumo" target="_blank" rel="noopener">Tatsunori Marumo</a>

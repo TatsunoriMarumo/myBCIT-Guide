@@ -18,7 +18,7 @@ This documentation is targeted towards the following users:
 - Having a compass card
 - Owing a Canadian bank account
 - Living in Canada
-- Having access to myBCIT account(https://my.bcit.ca/)
+- Having access to myBCIT
 
 ## Overview
 The main sections of this documentation are summarized below:

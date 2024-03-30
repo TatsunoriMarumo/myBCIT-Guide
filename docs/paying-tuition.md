@@ -1,7 +1,7 @@
 # Paying Commitment Fee and Tuition
 
 ## Overview
-In this section, you will know how to pay your **[commitment fee](Glossary.md/#commitment-fee)** and **[tuition](Glossary.md/#tuition)** using Online Banking (Bill Payment). This step is the most important for you to reserve your spot in the full-time program. 
+In this section, you will know how to pay your **[commitment fee](glossary.md/#commitment-fee)** and **[tuition](glossary.md/#tuition)** using Online Banking (Bill Payment). This step is the most important for you to reserve your spot in the full-time program. 
 
 
 ## Check Current Balance
