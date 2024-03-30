@@ -12,7 +12,7 @@ By default, to check for new emails, you need to visit my BCIT site each time, w
 
 Futhermore, when sending emails to instructors or school, you need to include your name, student ID, program, and set name. This can be tedious to enter each time and easy to forget. To avoid this, setting up a signature that automatically adds the necessary information at the bottom of your emails is also strongly recommended.
 
-## Setting up forwarding
+## Set up forwarding
 
 1. Login to [myBCIT](https://my.bcit.ca)
 
@@ -21,6 +21,7 @@ Futhermore, when sending emails to instructors or school, you need to include yo
         Go [here](https://kb.bcit.ca/student/setting-up-multi-factor-authentication-3416) if you have not set it up yet
 
 2. Click "My Mail"
+![Click My Mail](\Assets\setting-up-email-image\click-my-mail.png)    
 
 3. Click "Setting"
 
@@ -45,7 +46,7 @@ Futhermore, when sending emails to instructors or school, you need to include yo
 
 ## Set up signature
 
-1. Follow the step form 1 to 3 on [Setting up forwarding](#setting-up-forwarding)
+1. Follow the step 1 - 3 of [Set up forwarding](#setting-up-forwarding)
 
 2. Click "Identities"
 
