@@ -10,7 +10,11 @@ At first, you need to check how much you have to pay. You can check it following
 1. Login to **[myBCIT](https://my.bcit.ca/)**.
 
     !!!Note ""
-        ![Image of loging page](\Assets\paying-tuition-image\login.png)
+        ![Image of login page](\Assets\paying-tuition-image\login.png)
+
+    !!!Note
+        You may be asked to set up authentication first. 
+        Go [here](https://kb.bcit.ca/student/setting-up-multi-factor-authentication-3416) if you have not set it up yet
 
 2. Click **Student Self Service**.
 
@@ -50,10 +54,13 @@ At first, you need to check how much you have to pay. You can check it following
     !!!Note
         BCIT does **NOT** send any notification to confirm your payment. Make sure to keep the receipt from the bank in case something happens.
 
-5. Check if your current balance in myBCIT has successfully updated to $0.
-!!! Success
-    To check your current balance, follw the steps 1 - 5 of **[Check Current Balance](#check-current-balance)**. 
-    It will take up to **48 business hours** updating the current balance.
+5. Check if your current balance in myBCIT has successfully updated to **$.00**.
+
+    !!! Note ""
+        ![Image of Student Self Service](\Assets\paying-tuition-image\current-balance-after.png)
+    !!! Success
+        To check your current balance, follw the steps 1 - 5 of **[Check Current Balance](#check-current-balance)**. 
+        It will take up to **48 business hours** updating the current balance.
 
 
 

@@ -16,18 +16,23 @@ Futhermore, when sending emails to instructors or school, you need to include yo
 
 1. Login to [myBCIT](https://my.bcit.ca)
 
+    !!!Note ""
+        ![Image of login page](\Assets\paying-tuition-image\login.png)
+
     !!!Note
         You may be asked to set up authentication first. 
         Go [here](https://kb.bcit.ca/student/setting-up-multi-factor-authentication-3416) if you have not set it up yet
 
-2. Click "My Mail"
-![Click My Mail](\Assets\setting-up-email-image\click-my-mail.png)    
+2. Click **My Mail**
 
-3. Click "Setting"
+    !!!Note ""
+        ![Click My Mail](\Assets\setting-up-email-image\click-my-mail.png)    
 
-4. Click "Filters"
+3. Click **Setting**
 
-5. Click "+" under Filters section
+4. Click **Filters**
+
+5. Click **+** under Filters section
 
 6. Set up forwarding
 
