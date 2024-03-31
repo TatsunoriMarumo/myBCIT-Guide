@@ -26,14 +26,14 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to Dark Mode
-      primary: indigo
-      accent: yellow
+      primary: custom
+      accent: custom
     - scheme: slate
       toggle:
         icon: material/toggle-switch
         name: Switch to Light Mode
-      primary: indigo
-      accent: yellow
+      primary: custom
+      accent: custom
 
 markdown_extensions:
   - toc:
@@ -84,6 +84,7 @@ extra_javascript:
 
 extra_css:
   - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/styles/default.min.css
+  - stylesheets/extra.css
 
 extra:
   social:
