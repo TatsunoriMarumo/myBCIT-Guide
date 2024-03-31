@@ -65,6 +65,8 @@ Futhermore, when sending emails to instructors or school, you need to include yo
 
 4. Click **save**.
 
+## Conclusion
+
 
 <!-- must include this
 - A main heading
