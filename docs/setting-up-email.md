@@ -59,9 +59,9 @@ Futhermore, when sending emails to instructors or school, you need to include yo
 
 2. Click **Identities**.
 
-1. Click your myBCIT email address.
+1. Click **your myBCIT email address**.
 
-3. Set up signature.
+3. Set up **signature**.
 
 4. Click **save**.
 
