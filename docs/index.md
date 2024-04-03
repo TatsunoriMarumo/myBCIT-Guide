@@ -1,29 +1,36 @@
 # **Introduction**
 
-Congratulations! You got accepted to become a member of a top collage in Canada🤞 This documentation would guide you what you need to do before the first day at BCIT and navigate how to use **<u>[myBCIT](https://my.bcit.ca/)</u>**, which you should be familiar with to achieve your successful student life.
+Congratulations🎊✨ You've been accepted into one of Canada's top colleges! This guide will help you prepare for your first day at BCIT and navigate **<u>[myBCIT](https://my.bcit.ca/)</u>**, which you should become familiar with to achieve a successful student life. 
 
+> **myBCIT** is a portal for students and employees to access common resources such as myBCIT email, course information, and self-service options like course registration, course grades, tax forms (T2202A and T4) and more.
 
 
 ## Intended Users
-This documentation is targeted towards the following users:
+This documentation is targeted for 
 
-- People who have received an acceptance letter into BCIT's full-time program
+- Individuals who have received an acceptance letter for a full-time program at BCIT.
 
 ## Requirements
-- Holding an acceptance letter to BCIT's full-time program
-- Having a compass card
-- Owing a Canadian bank account
-- Living in Canada
-- Having access to myBCIT
+
+Before you dive into this document, make sure you have
+
+- an acceptance letter for BCIT's full-time program
+- access to myBCIT
+- a residence in Canada
+- a Canadian bank account
+- a Compass Card.
+
 
 ## Overview
-The main sections of this documentation are summarized below:
+Here's a summary of the main sections in this guide:
 
 - [Paying commitment fee and tuition](paying-tuition)
 - [Setting up BCIT email](setting-up-email)
 - [Applying for U-Pass](applying-for-upass.md)
 
 ## Important Messages
+In this guide, we'll use message blocks to highlight important information. Here are the types of messages you'll see.
+
 !!! note 
     Indicates additional information or tips
 
