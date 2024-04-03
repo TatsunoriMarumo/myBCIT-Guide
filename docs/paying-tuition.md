@@ -1,11 +1,17 @@
 # **Paying Commitment Fee and Tuition**
 
 ## Overview
-In this section, you will know how to pay your [commitment fee](glossary.md/#commitment-fee) and [tuition](glossary.md/#tuition) using Online Banking ([Bill Payment](glossary.md/#bill-payment)). This step is the most important for you to reserve your spot in the full-time program. 
+In this section, we will guide you through the process of paying your [commitment fee](glossary.md/#commitment-fee) and [tuition](glossary.md/#tuition) using Online Banking ([Bill Payment](glossary.md/#bill-payment)). This step is crucial for securing your place in the full-time program. To ensure a successful payment, you should
 
+- check your current balance
+- make a payment through Online Banking.
 
-## Check Current Balance
-At first, you need to check how much you have to pay. You can check it following these steps: 
+!!! Note
+    The process for paying the commitment fee and tuition is the same.
+
+## Check Current balance
+
+Current balance indicates how much you need to pay for BCIT. 
 
 1. Login to **<u>[myBCIT](https://my.bcit.ca/)</u>**.
 
@@ -59,7 +65,7 @@ At first, you need to check how much you have to pay. You can check it following
     !!! Note ""
         ![Image of Student Self Service](\Assets\paying-tuition-image\current-balance-after.png)
     !!! Success
-        To check your current balance, follw the steps 1 - 5 of **[Check Current Balance](#check-current-balance)**. 
+        To check your current balance, follow the steps 1 - 5 of **[Check Current Balance](#check-current-balance)**. 
         It will take up to **48 business hours** updating the current balance.
 
 
