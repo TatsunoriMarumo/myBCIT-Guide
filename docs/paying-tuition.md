@@ -49,7 +49,7 @@ After checking your current balance, you will make a payment using Online Bankin
 
 1. Login to your bank account.
 2. Add a new bill payee and search for "BCIT".
-3. Choose "BCIT - TUITION PAYMENTS" and enter your student ID as your [account number](.\glossary.md#account-number).
+3. Choose "BCIT - TUITION PAYMENTS" and enter your student ID as your [account number](glossary.md\#account-number).
 
     !!! Warning
         do not choose bcit housing
