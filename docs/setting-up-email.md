@@ -1,4 +1,4 @@
-# Setting up BCIT email
+# **Setting up BCIT email**
 
 ## Overview
 
@@ -14,14 +14,14 @@ Futhermore, when sending emails to instructors or school, you need to include yo
 
 ## Set up forwarding
 
-1. Login to [myBCIT](https://my.bcit.ca).
+1. Login to **<u>[myBCIT](https://my.bcit.ca){:target="_blank"}</u>**.
 
     !!!Note ""
         ![Image of login page](\Assets\paying-tuition-image\login.png)
 
     !!!Note
         You may be asked to set up authentication first. 
-        Go [here](https://kb.bcit.ca/student/setting-up-multi-factor-authentication-3416) if you have not set it up yet
+        Go <u>[here](https://kb.bcit.ca/student/setting-up-multi-factor-authentication-3416){:target="_blank"}</u> if you have not set it up yet
 
 2. Click **My Mail**.
 

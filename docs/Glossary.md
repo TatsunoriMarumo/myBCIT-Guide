@@ -1,9 +1,11 @@
+# **Glossary**
+
 | **Term** | **Definition** |
 |----------|----------------|
 | <div id="account-number">**Account number**</div> | A unique number identifying your bank account, used for transactions like tuition payment |
 | <div id ="authentication">**Authentication**</div> | The process of verifying your identity required when accessing BCIT systems | 
 | <div id="bill>**BILL**</div> | An invoice or statement of charges for services, like tuition at BCIT |
-| <div id="Bill payment"> **Bill payment** </div> | The process of paying charges for services, like tuition at BCIT, often through a bank or online payment system |
+| <div id="bill-payment"> **Bill payment** </div> | The process of paying charges for services, like tuition at BCIT, often through a bank or online payment system |
 | <div id="commitment-fee">**Commitment fee**</div> | A fee paid to secure your spot in a program at BCIT, ensuring your enrollment |
 | <div id="compass-card">**Compass card**</div>| A reloadable smart card used to pay for travel on public transportation in Metro Vancouver |
 | <div id="drop-down-menu">**Drop-down menu**</div> | A graphical control element that allows the user to choose one value from a list |

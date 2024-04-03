@@ -1,10 +1,6 @@
-# Introduction
+# **Introduction**
 
-Congratulations! You got accepted to become a member of a top collage in Canada🤞 This documentation would guide you what you need to do before the first day at BCIT and navigate how to use <span class="tag">[**myBCIT**](https://my.bcit.ca/)</span>, which is the website needed for 
-
-1. Paying tuition
-2. Setting up BCIT email
-3. Applying for U-Pass
+Congratulations! You got accepted to become a member of a top collage in Canada🤞 This documentation would guide you what you need to do before the first day at BCIT and navigate how to use **<u>[myBCIT](https://my.bcit.ca/)</u>**, which you should be familiar with to achieve your successful student life.
 
 
 
@@ -23,9 +19,9 @@ This documentation is targeted towards the following users:
 ## Overview
 The main sections of this documentation are summarized below:
 
-- **[Paying commitment fee and tuition](paying-tuition)**
-- **[Setting up BCIT email](setting-up-email)**
-- **[Applying for U-Pass](applying-for-upass.md)**
+- [Paying commitment fee and tuition](paying-tuition)
+- [Setting up BCIT email](setting-up-email)
+- [Applying for U-Pass](applying-for-upass.md)
 
 ## Important Messages
 !!! note 

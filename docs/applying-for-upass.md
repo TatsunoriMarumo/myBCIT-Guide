@@ -1,10 +1,10 @@
-# Applying for U-Pass
+# **Applying for U-Pass**
 
 ## Overview
 
 ## Apply for U-Pass
 
-1. Log in to **myBCIT**.
+1. Log in to **<u>[myBCIT](https://my.bcit.ca/)</u>**.
 
     !!!Note ""
         ![Login to myBCIT](\Assets\paying-tuition-image\login.png)
