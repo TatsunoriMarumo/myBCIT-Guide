@@ -43,31 +43,28 @@ Your current balance shows the amount you owe to BCIT. It's important to check t
 
 
 ## Pay Using Online Banking (Bill Payment)
-After checking your current balance, you will make a payment using Online Banking.Online banking allows you to access your accounts and make various financial transactions on the Internet. If you want to pay in person or unable to pay, check [here]()
+After checking your current balance, proceed with making your payment through online banking(Bill Payment). BCIT recommends using online banking. If you prefer to pay in person or encounter any issues with payment, click **<u>[here](troubleshooting.md)</u>** for assistance.
 
->**These step 1 - 4 may be different order depending on your bank.**
+>✏️ Steps 1 - 4 may differ in order depending on your bank.
 
 1. Login to your bank account.
-2. Add a new bill payee and search for "BCIT".
-3. Choose "BCIT - TUITION PAYMENTS" and enter your student ID as your [account number](glossary.md\#account-number).
+2. Add a new bill payee and search for **BCIT**.
+3. Choose **BCIT - Tuition Payments** and enter your student ID as your [account number](glossary.md\#account-number).
 
     !!! Warning
-        do not choose bcit housing
+        Do **NOT** choose **BCIT - Rent Payments**. This options is intended for paying housing fee payments.
 
-4. Enter the current Balance you checked and complete your payment.
+4. Enter the current balance and complete your payment.
 
     !!!Note
-        BCIT does **NOT** send any notification to confirm your payment. Make sure to keep the receipt from the bank in case something happens.
-
+        BCIT does **NOT** send a confirmation notification for your payment. Ensure your keep the bank receipt as proof in case any issues arise. 
 
 5. Check if your current balance in myBCIT has successfully updated to **$.00**.
 
     !!! Quote ""
         ![Image of Student Self Service](..\Assets\paying-tuition-image\current-balance-after.png)
     !!! Success
-        To check your current balance, follow the steps 1 - 5 of **[Check Current Balance](#check-current-balance)**. 
-        It will take up to **48 business hours** updating the current balance.
-
-
-
+        Once your current balance shows $.00, it means you have successfully paid your commitment fee or tuition. This can take up to **48 business hours** to reflect. 
+        
+        
 ## Conclusion
