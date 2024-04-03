@@ -2,7 +2,7 @@
 
 ## Overview
 
-This section provides step-by-step instruction on how to configure your myBCIT email settings. myBCIT email is is parimarily used for 
+This section provides step-by-step instruction on how to configure your myBCIT email settings. myBCIT email is is primarily used for 
 
 - communication with instructors and school 
 - registration on external sites or tools where student services are available
@@ -16,18 +16,13 @@ Futhermore, when sending emails to instructors or school, you need to include yo
 
 1. Login to **<u>[myBCIT](https://my.bcit.ca){:target="_blank"}</u>**.
 
-    !!!Note ""
-        ![Image of login page](..\Assets\paying-tuition-image\login.png)
-
-    !!!Note
-        You may be asked to set up authentication first. 
-        Go <u>[here](https://kb.bcit.ca/student/setting-up-multi-factor-authentication-3416){:target="_blank"}</u> if you have not set it up yet
-
 2. Click **My Mail**.
 
-    !!!Note ""
+    !!!Quote ""
         ![Click My Mail](..\Assets\setting-up-email-image\click-my-mail.png)    
 
+    
+     > ✏️ The image for Steps 3 - 7 is shown together in after Step 7.
 3. Click **Setting**.
 
 4. Click **Filters**.
@@ -49,7 +44,7 @@ Futhermore, when sending emails to instructors or school, you need to include yo
 
 7. Click save.
 
-    !!!Note ""
+    !!!Quote ""
         **Step 3 - 7**
         ![Click My Mail](..\Assets\setting-up-email-image\click-setting.png)
 
@@ -58,6 +53,7 @@ Futhermore, when sending emails to instructors or school, you need to include yo
 1. Follow the **Step 1 - 3** of **[Set up forwarding](#set-up-forwarding)**.
 
 2. Click **Identities**.
+> ✏️ The image for Steps 2 - 5 is shown together in after Step 5.
 
 1. Click **your myBCIT email address**.
 
@@ -67,19 +63,21 @@ Futhermore, when sending emails to instructors or school, you need to include yo
         The example of email signature for myBCIT email:
         ```
         FirstName LastName
-        Your Program Name (Example: CST Diploma)
+        Your Program (Example: CST Diploma)
         A########(Your studentID), Term 1, Set# (Your set)
 
         ```
 
 4. Click **Save**.
 
-    !!!Note ""
+    !!! Quote ""
         **Step 2 - 5**
         ![Set Up Signature](..\Assets\setting-up-email-image\set-up-signature.png)
 
-!!!Success
-    Hello hello
-
+!!!Success "Congratulations✨"
+    That's it for setting up email! You're all set to receive and send emails with all the necessary information automatically included.
 
 ## Conclusion
+By the end of this section, you will have successfully set up forwarding and signature. Let's move on to the next step: 
+
+:track_next: **[Applying for U-Pass](applying-for-upass.md)**
