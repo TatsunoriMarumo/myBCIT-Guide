@@ -59,12 +59,16 @@ After checking your current balance, proceed with making your payment through on
     !!!Note
         BCIT does **NOT** send a confirmation notification for your payment. Ensure your keep the bank receipt as proof in case any issues arise. 
 
-5. Check if your current balance in myBCIT has successfully updated to **$.00**.
+5. Check that your current balance in myBCIT has updated to **$.00**.
 
     !!! Quote ""
         ![Image of Student Self Service](..\Assets\paying-tuition-image\current-balance-after.png)
     !!! Success
         Once your current balance shows $.00, it means you have successfully paid your commitment fee or tuition. This can take up to **48 business hours** to reflect. 
         
-        
+
 ## Conclusion
+By the end of this section, you will have successfully paid your commitment fee and tuition.
+Now, it's time to set up your BCIT email to ensure you don't miss any important information from BCIT.
+
+:track_next: **[Setting up myBCIT email](setting-up-email.md)**
