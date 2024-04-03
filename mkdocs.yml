@@ -2,7 +2,7 @@ site_name: How to use myBCIT
 
 nav:
   - Home: index.md
-  - Paying tuition: paying-tuition.md
+  - Paying commitment fee and tuition: paying-tuition.md
   - Setting up myBCIT email: setting-up-email.md
   - Applying for U-Pass: applying-for-upass.md
   - Troubleshooting: troubleshooting.md

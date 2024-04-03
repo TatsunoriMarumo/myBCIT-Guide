@@ -1,4 +1,4 @@
-# **Paying Commitment Fee and Tuition**
+# **Paying commitment fee and tuition**
 
 ## Overview
 In this section, we will guide you through the process of paying your [commitment fee](glossary.md\#commitment-fee) and [tuition](glossary.md\#tuition) using Online Banking ([Bill Payment](glossary.md\#bill-payment)). This step is crucial for securing your place in the full-time program. To ensure a successful payment, you should
