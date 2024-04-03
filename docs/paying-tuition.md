@@ -1,7 +1,7 @@
 # **Paying Commitment Fee and Tuition**
 
 ## Overview
-In this section, you will know how to pay your [commitment fee](glossary.md\#commitment-fee) and [tuition](glossary.md\#tuition) using Online Banking ([Bill Payment](glossary.md/#bill-payment)). This step is the most important for you to reserve your spot in the full-time program. 
+In this section, you will know how to pay your [commitment fee](.\glossary.md#commitment-fee) and [tuition](.\glossary.md#tuition) using Online Banking ([Bill Payment](.\glossary.md#bill-payment)). This step is the most important for you to reserve your spot in the full-time program. 
 
 
 ## Check Current Balance
@@ -13,7 +13,7 @@ At first, you need to check how much you have to pay. You can check it following
         ![Image of login page](..\Assets\paying-tuition-image\login.png)
 
     !!!Note
-        You may be asked to set up [authentication](glossary.md\#authentication) first. 
+        You may be asked to set up [authentication](.\glossary.md#authentication) first. 
         Go <u>[here](https://kb.bcit.ca/student/setting-up-multi-factor-authentication-3416){:target="_blank"}</u> if you have not set it up yet.
 
 2. Click **Student Self Service**.
@@ -47,7 +47,7 @@ At first, you need to check how much you have to pay. You can check it following
 
 1. Login to your bank account.
 2. Add a new bill payee and search for "BCIT".
-3. Choose "BCIT - TUITION PAYMENTS" and enter your student ID as your [account number](glossary.md\#account-number).
+3. Choose "BCIT - TUITION PAYMENTS" and enter your student ID as your [account number](.\glossary.md#account-number).
 4. Enter the current Balance you checked and complete your payment.
 
     <!-- if you do not like the indentation, in stead of tab, putting '>' in front of !!! would be another option -->
