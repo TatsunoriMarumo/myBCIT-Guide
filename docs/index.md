@@ -6,9 +6,7 @@ Congratulations🎊✨ You've been accepted into one of Canada's top colleges! T
 
 
 ## Intended Users
-This documentation is targeted for 
-
-- Individuals who have received an acceptance letter for a full-time program at BCIT.
+This documentation is targeted for Individuals who have received an acceptance letter for a full-time program at BCIT.
 
 ## Requirements
 
@@ -39,3 +37,5 @@ In this guide, we'll use message blocks to highlight important information. Here
 
 !!! warning
     Specifies what must be checked before proceeding
+
+
