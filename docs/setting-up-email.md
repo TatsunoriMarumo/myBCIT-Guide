@@ -8,9 +8,9 @@ This section provides step-by-step instruction on how to configure your myBCIT e
 - registration on external sites or tools where student services are available
 - use of school's facility such as printers and Wi-Fi.
 
-By default, to check for new emails, you need to visit my BCIT site each time, which is not only time consuming, but also increases the risk of missing important messages. Therefore, setting up [forwarding](.\glossary.md#forwarding) to an email account you use on your device is highly recommended. 
+By default, to check for new emails, you need to visit my BCIT site each time, which is not only time consuming, but also increases the risk of missing important messages. Therefore, setting up [forwarding](glossary.md\#forwarding) to an email account you use on your device is highly recommended. 
 
-Futhermore, when sending emails to instructors or school, you need to include your name, student ID, program, and set name. This can be tedious to enter each time and easy to forget. To avoid this, setting up a [signature](.\glossary.md#signature) that automatically adds the necessary information at the bottom of your emails is also strongly recommended.
+Futhermore, when sending emails to instructors or school, you need to include your name, student ID, program, and set name. This can be tedious to enter each time and easy to forget. To avoid this, setting up a [signature](glossary.md\#signature) that automatically adds the necessary information at the bottom of your emails is also strongly recommended.
 
 ## Set up forwarding
 
