@@ -4,33 +4,55 @@
 
 ## Apply for U-Pass
 
-1. Log in to myBCIT
+1. Log in to **myBCIT**.
 
-2. Click **U-Pass**.
+    !!!Note ""
+        ![Login to myBCIT](\Assets\paying-tuition-image\login.png)
 
-3. Select a year want to apply
 
-4. Click **Display**.
+2. Click **U-Pass BC**.
 
-5. Click **Getting your U-Pass**.
+    !!!Note ""
+        ![U-Pass BC](\Assets\applying-u-pass-image\u-pass-bc.png)
 
-6. Select **British Columbia Institute of Technology** from the drop-down menu.
+3. Select a year that you want to apply from the drop-down menu and click **Display**
 
-7. Click **GO**.
+    !!!Note ""
+        ![Year and display](\Assets\applying-u-pass-image\year-and-display.png)
 
-8. Log in using your BCIT email address and password.
+4. Click **Getting your U-Pass**.
 
-9. Link your Compass Card by entering the 20-digits and CVN on the back of your Compass Card
+    !!!Note ""
+        ![Getting your U-Pass](\Assets\applying-u-pass-image\getting-u-pass.png)
 
-10. Check the box for Month you want to apply for.
+5. Click **U-Pass BC website** under **Load your U-Pass BC** section.
 
-11. Click **Request**.
+    !!!Note ""
+        ![U-Pass BC website](\Assets\applying-u-pass-image\u-pass-website.png)
 
-### must include this
-- A main heading
-- A brief overview
-- Subheadings as needed
-- Graphics
-- Separate blocks of instruction steps
-- Notes, cautions, and warnings as needed (admonitions)
-- Conclusion
+
+6. Select **British Columbia Institute of Technology** from the drop-down menu and click **GO**.
+
+    !!!Note ""
+        ![U-Pass BC website](\Assets\applying-u-pass-image\select-BCIT.png)
+
+7. Log in using your BCIT email address and password.
+
+    !!!Note
+        If you have logged in the U-Pass website, this step may be skipped.
+
+8. Link your Compass Card by entering the 20-digits and CVN on the back of your Compass Card
+
+    !!!Note 
+        This step may be skipped if you have connected before.
+
+
+9. Check the box for Month you want to apply for, then click **Request**.
+
+    !!!Note ""
+        ![U-Pass BC request](\Assets\applying-u-pass-image\request-u-pass.png)
+
+!!!Success
+    You can use U-pass now!
+
+## Conclusion
