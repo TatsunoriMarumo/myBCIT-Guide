@@ -17,7 +17,7 @@ Futhermore, when sending emails to instructors or school, you need to include yo
 1. Login to **<u>[myBCIT](https://my.bcit.ca){:target="_blank"}</u>**.
 
     !!!Note ""
-        ![Image of login page](\Assets\paying-tuition-image\login.png)
+        ![Image of login page](..\Assets\paying-tuition-image\login.png)
 
     !!!Note
         You may be asked to set up authentication first. 
@@ -26,7 +26,7 @@ Futhermore, when sending emails to instructors or school, you need to include yo
 2. Click **My Mail**.
 
     !!!Note ""
-        ![Click My Mail](\Assets\setting-up-email-image\click-my-mail.png)    
+        ![Click My Mail](..\Assets\setting-up-email-image\click-my-mail.png)    
 
 3. Click **Setting**.
 
@@ -51,7 +51,7 @@ Futhermore, when sending emails to instructors or school, you need to include yo
 
     !!!Note ""
         **Step 3 - 7**
-        ![Click My Mail](\Assets\setting-up-email-image\click-setting.png)
+        ![Click My Mail](..\Assets\setting-up-email-image\click-setting.png)
 
 ## Set up signature
 
@@ -76,7 +76,7 @@ Futhermore, when sending emails to instructors or school, you need to include yo
 
     !!!Note ""
         **Step 2 - 5**
-        ![Set Up Signature](\Assets\setting-up-email-image\set-up-signature.png)
+        ![Set Up Signature](..\Assets\setting-up-email-image\set-up-signature.png)
 
 !!!Success
     Hello hello
