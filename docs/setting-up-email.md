@@ -45,7 +45,7 @@ Futhermore, when sending emails to instructors or school, you need to include yo
     iv. In the text-input field to the right, enter the destination email address where you want incoming emails to be forwarded.
     
     !!!Note
-        If you want to forward to more than 1 email address, click on the + to add another email.
+        If you want to forward to more than 1 email address, click on the **+** to add another email.
 
 7. Click save.
 
@@ -55,24 +55,31 @@ Futhermore, when sending emails to instructors or school, you need to include yo
 
 ## Set up signature
 
-1. Follow the step 1 - 3 of [Set up forwarding](#set-up-forwarding).
+1. Follow the **Step 1 - 3** of **[Set up forwarding](#set-up-forwarding)**.
 
 2. Click **Identities**.
 
 1. Click **your myBCIT email address**.
 
-3. Set up **signature**.
+3. Set up **Signature**.
 
-4. Click **save**.
+    !!!Note
+        The example of email signature for myBCIT email:
+        ```
+        FirstName LastName
+        Your Program Name (Example: CST Diploma)
+        A########(Your studentID), Term 1, Set# (Your set)
+
+        ```
+
+4. Click **Save**.
+
+    !!!Note ""
+        **Step 2 - 5**
+        ![Set Up Signature](\Assets\setting-up-email-image\set-up-signature.png)
+
+!!!Success
+    Hello hello
+
 
 ## Conclusion
-
-
-<!-- must include this
-- A main heading
-- A brief overview
-- Subheadings as needed
-- Graphics
-- Separate blocks of instruction steps
-- Notes, cautions, and warnings as needed (admonitions)
-- Conclusion -->
