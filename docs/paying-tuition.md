@@ -63,8 +63,9 @@ After checking your current balance, proceed with making your payment through on
 
     !!! Quote ""
         ![Image of Student Self Service](..\Assets\paying-tuition-image\current-balance-after.png)
-    !!! Success "Success✨"
-        Once your current balance shows $.00, it means you have successfully paid your commitment fee or tuition. This can take up to **48 business hours** to reflect. 
+    
+!!! Success "Success✨"
+    Once your current balance shows $.00, it means you have successfully paid your commitment fee or tuition. This can take up to **48 business hours** to reflect. 
         
 
 ## Conclusion
