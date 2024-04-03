@@ -1,6 +1,6 @@
 # Introduction
 
-Congratulations! You got accepted to become a member of a top collage in Canada🤞 This documentation would guide you what you need to do before the first day at BCIT and navigate how to use [**myBCIT**](https://my.bcit.ca/), which is the website needed for 
+Congratulations! You got accepted to become a member of a top collage in Canada🤞 This documentation would guide you what you need to do before the first day at BCIT and navigate how to use <span class="tag">[**myBCIT**](https://my.bcit.ca/)</span>, which is the website needed for 
 
 1. Paying tuition
 2. Setting up BCIT email

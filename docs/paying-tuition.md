@@ -54,22 +54,14 @@ At first, you need to check how much you have to pay. You can check it following
     !!!Note
         BCIT does **NOT** send any notification to confirm your payment. Make sure to keep the receipt from the bank in case something happens.
 
-5. Check if your current balance in myBCIT.
+5. Check if your current balance in myBCIT has successfully updated to **$.00**.
 
     !!! Note ""
         ![Image of Student Self Service](\Assets\paying-tuition-image\current-balance-after.png)
     !!! Success
-        Once your current balance becomes **$.00**, that means you have successfully paid your commitment fee or tuition. 
+        To check your current balance, follw the steps 1 - 5 of **[Check Current Balance](#check-current-balance)**. 
         It will take up to **48 business hours** updating the current balance.
 
 
 
 ## Conclusion
-By the end of this section, you will have successfully known
-
-- [x] How to pay commitment fee and tuition.
-
-Now you have reserved the spot! Go ahead next section to set up myBCIT email. 
-Next section: 
-
-**[Setting Up myBCIT email](setting-up-email.md)**
