@@ -19,7 +19,7 @@ Futhermore, when sending emails to instructors or school, you need to include yo
 2. Click **My Mail**.
 
     !!!Quote ""
-        ![Click My Mail](..\Assets\setting-up-email-image\click-my-mail.png)    
+        [![Click My Mail](..\Assets\setting-up-email-image\click-my-mail.png)](..\Assets\setting-up-email-image\click-my-mail.png){:target="_blank"}
 
     
      > ✏️ The image for Steps 3 - 7 is shown together in after Step 7.
@@ -46,7 +46,7 @@ Futhermore, when sending emails to instructors or school, you need to include yo
 
     !!!Quote ""
         **Step 3 - 7**
-        ![Click My Mail](..\Assets\setting-up-email-image\click-setting.png)
+        [![Click My Mail](..\Assets\setting-up-email-image\click-setting.png)](..\Assets\setting-up-email-image\click-setting.png){:target="_blank"}
 
 ## Set up signature
 
@@ -72,7 +72,7 @@ Futhermore, when sending emails to instructors or school, you need to include yo
 
     !!! Quote ""
         **Step 2 - 5**
-        ![Set Up Signature](..\Assets\setting-up-email-image\set-up-signature.png)
+        [![Set Up Signature](..\Assets\setting-up-email-image\set-up-signature.png)](..\Assets\setting-up-email-image\set-up-signature.png){:target="_blank"}
 
 !!!Success "Congratulations✨"
     That's it for setting up email! You're all set to receive and send emails with all the necessary information automatically included.

@@ -15,7 +15,7 @@ Your current balance shows the amount you owe to BCIT. It's important to check t
 1. Login to **<u>[myBCIT](https://my.bcit.ca/)</u>**.
 
     !!!Quote ""
-        ![Image of login page](..\Assets\paying-tuition-image\login.png)
+        [![Image of login page](..\Assets\paying-tuition-image\login.png)](..\Assets\paying-tuition-image\login.png){:target="_blank"}
 
     !!!Note
         You may be asked to set up [authentication](glossary.md\#authentication) first. 
@@ -24,22 +24,22 @@ Your current balance shows the amount you owe to BCIT. It's important to check t
 2. Click **Student Self Service**.
 
     !!! Quote ""
-        ![Image of Student Self Service](..\Assets\paying-tuition-image\student-selfservice.png)
+        [![Image of Student Self Service](..\Assets\paying-tuition-image\student-selfservice.png)](..\Assets\paying-tuition-image\student-selfservice.png){:target="_blank"}
 
 3. Click **Fee assessment, payment and receipts**.
 
     !!! Quote ""
-        ![Image of Fee assessment, payment, and receipts](..\Assets\paying-tuition-image\fee-assessment.png)
+        [![Image of Fee assessment, payment, and receipts](..\Assets\paying-tuition-image\fee-assessment.png)](..\Assets\paying-tuition-image\fee-assessment.png){:target="_blank"}
 
 4. Click **Pay tuition - all students**.
 
     !!! Quote ""
-        ![Image of Pay tuition - all students](..\Assets\paying-tuition-image\pay-tuition.png)
+        [![Image of Pay tuition - all students](..\Assets\paying-tuition-image\pay-tuition.png)](..\Assets\paying-tuition-image\pay-tuition.png){:target="_blank"}
 
 5. Check **Current balance**.
     
     !!! Quote ""
-        ![Image of Current balance](..\Assets\paying-tuition-image\current-balance.png)
+        [![Image of Current balance](..\Assets\paying-tuition-image\current-balance.png)](..\Assets\paying-tuition-image\current-balance.png){:target="_blank"}
 
 
 ## Pay Using Online Banking (Bill Payment)
@@ -62,7 +62,7 @@ After checking your current balance, proceed with making your payment through on
 5. Check that your current balance in myBCIT has updated to **$.00**.
 
     !!! Quote ""
-        ![Image of Student Self Service](..\Assets\paying-tuition-image\current-balance-after.png)
+        [![Image of Student Self Service](..\Assets\paying-tuition-image\current-balance-after.png)](..\Assets\paying-tuition-image\current-balance-after.png){:target="_blank"}
     
 !!! Success "Success✨"
     Once your current balance shows $.00, it means you have successfully paid your commitment fee or tuition. This can take up to **48 business hours** to reflect. 

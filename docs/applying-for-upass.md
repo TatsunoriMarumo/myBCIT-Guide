@@ -12,28 +12,28 @@ This section guides you through applying for your [U-Pass](glossary.md\#u-pass).
 2. Click **U-Pass BC**.
 
     !!! Quote ""
-        ![U-Pass BC](..\Assets\applying-u-pass-image\u-pass-bc.png)
+        [![U-Pass BC](..\Assets\applying-u-pass-image\u-pass-bc.png)](..\Assets\applying-u-pass-image\u-pass-bc.png){:target="_blank"}
 
 3. Select the year you wish to apply for from the drop-down menu and click **Display**
 
     !!! Quote ""
-        ![Year and display](..\Assets\applying-u-pass-image\year-and-display.png)
+        [![Year and display](..\Assets\applying-u-pass-image\year-and-display.png)](..\Assets\applying-u-pass-image\year-and-display.png){:target="_blank"}
 
 4. Click **Getting your U-Pass**.
 
     !!! Quote ""
-        ![Getting your U-Pass](..\Assets\applying-u-pass-image\getting-u-pass.png)
+        [![Getting your U-Pass](..\Assets\applying-u-pass-image\getting-u-pass.png)](..\Assets\applying-u-pass-image\getting-u-pass.png){:target="_blank"}
 
 5. Click **U-Pass BC website** under **Load your U-Pass BC** section.
 
     !!! Quote ""
-        ![U-Pass BC website](..\Assets\applying-u-pass-image\u-pass-website.png)
+        [![U-Pass BC website](..\Assets\applying-u-pass-image\u-pass-website.png)](..\Assets\applying-u-pass-image\u-pass-website.png){:target="_blank"}
 
 
 6. Select **British Columbia Institute of Technology** from the drop-down menu and click **Go**.
 
     !!! Quote ""
-        ![U-Pass BC website](..\Assets\applying-u-pass-image\select-BCIT.png)
+        [![U-Pass BC website](..\Assets\applying-u-pass-image\select-BCIT.png)](..\Assets\applying-u-pass-image\select-BCIT.png){:target="_blank"}
 
 7. Log in using your BCIT email address and password.
 
@@ -49,7 +49,7 @@ This section guides you through applying for your [U-Pass](glossary.md\#u-pass).
 9. Check the box for Month you want to apply for, then click **Request**.
 
     !!! Quote ""
-        ![U-Pass BC request](..\Assets\applying-u-pass-image\request-u-pass.png)
+        [![U-Pass BC request](..\Assets\applying-u-pass-image\request-u-pass.png)](..\Assets\applying-u-pass-image\request-u-pass.png){:target="_blank"}
 
 !!!Success "Success✨"
     You've successfully applied for your U-Pass! It may take up to **24 hours** for your U-Pass to load to your Compass Card.
