@@ -1,4 +1,4 @@
-# **Setting up BCIT email**
+# **Setting up myBCIT email**
 
 ## Overview
 

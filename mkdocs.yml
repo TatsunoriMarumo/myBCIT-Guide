@@ -8,7 +8,7 @@ nav:
   - Troubleshooting: troubleshooting.md
   - Glossary: glossary.md
 
-theme: 
+theme:
   name: material
   features:
     - navigation.tabs
@@ -23,15 +23,6 @@ theme:
   language: en
   palette:
     - scheme: default
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to Dark Mode
-      primary: custom
-      accent: custom
-    - scheme: slate
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to Light Mode
       primary: custom
       accent: custom
 

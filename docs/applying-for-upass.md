@@ -55,7 +55,7 @@ This section guides you through applying for your [U-Pass](glossary.md\#u-pass).
     You've successfully applied for your U-Pass! It may take up to **24 hours** for your U-Pass to load to your Compass Card.
 
 ## Conclusion
-By the end of this section, you will have successfully applied for your U-Pass. For any issues, refers to the troubleshooting. For definitions of terms, visit the glossary. 
+By the end of this section, you will have successfully applied for your U-Pass. For any issues, refers to the troubleshooting. For definitions of terms, visit the glossary.
 
 :track_next: **[Troubleshooting](troubleshooting.md)**
 
