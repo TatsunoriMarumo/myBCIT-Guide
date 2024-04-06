@@ -7,7 +7,7 @@
 | <span id="bill>**BILL**</span> | An invoice or statement of charges for services, like tuition at BCIT |
 | <span id="bill-payment"> **Bill payment** </span> | The process of paying charges for services, like tuition at BCIT, often through a bank or online payment system |
 | <span id="commitment-fee">**Commitment fee**</span> | A fee paid to secure your spot in a program at BCIT, ensuring your enrollment |
-| <span id="compass-card">**Compass card**</span>| A reloadable smart card used to pay for travel on public transportation in Metro Vancouver |
+| <span id="compass-card">**Compass Card**</span>| A reloadable smart card used to pay for travel on public transportation in Metro Vancouver |
 | <span id="cvn">**CVN**</span>| 3-digit card verification number on the back of your compass card. |
 | <span id="drop-down-menu">**Drop-down menu**</span> | A graphical control element that allows the user to choose one value from a list |
 | <span id="filter">**Filter**</span> | A setting in email that organizes incoming messages based on criteria you define |

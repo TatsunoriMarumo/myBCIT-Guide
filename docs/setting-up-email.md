@@ -35,7 +35,7 @@ Futhermore, when sending emails to instructors or school, you need to include yo
 
     ii. Select **All messages** under **For incoming mail**.
 
-    iii. Click on drop-down menu under **...execute the following actions**, and Select **Redirect message to**.
+    iii. Click on [drop-down menu](glossary/#drop-down-menu) under **...execute the following actions**, and Select **Redirect message to**.
 
     iv. In the text-input field to the right, enter the destination email address where you want incoming emails to be forwarded.
     
