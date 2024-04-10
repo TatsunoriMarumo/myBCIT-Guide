@@ -29,7 +29,7 @@ By default, to check for new emails, you need to visit my BCIT site each time, w
 
 6. Set up forwarding.
 
-    i. In the **Filter Name** box, give a name to your filter (example: Forwarding).
+    i. In the **Filter Name** box, give a name to your [filter](glossary.md/#filter) (example: Forwarding).
 
     ii. Select **All messages** under **For incoming mail**.
 
