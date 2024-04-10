@@ -4,7 +4,7 @@ This section guides you through applying for your [U-Pass](glossary.md\#u-pass).
 
 ## Apply for U-Pass
 !!! Warning "Check!"
-    To apply for your U-Pass, you must have paid your full tuition first. 
+    To apply for your U-Pass, ensure you've paid your full tuition. Additionally, U-Pass applications open on the 16th of each month.
 
 1. Log in to **<u>[myBCIT](https://my.bcit.ca/)</u>**.
 
@@ -13,7 +13,7 @@ This section guides you through applying for your [U-Pass](glossary.md\#u-pass).
     !!! Quote ""
         [![U-Pass BC](..\Assets\applying-u-pass-image\u-pass-bc.png)](..\Assets\applying-u-pass-image\u-pass-bc.png){:target="_blank"}
 
-3. Select the year you wish to apply for from the drop-down menu and click **Display**
+3. Select the year you wish to apply for from the drop-down menu and click **Display**.
 
     !!! Quote ""
         [![Year and display](..\Assets\applying-u-pass-image\year-and-display.png)](..\Assets\applying-u-pass-image\year-and-display.png){:target="_blank"}
@@ -39,7 +39,7 @@ This section guides you through applying for your [U-Pass](glossary.md\#u-pass).
     !!!Note
         If you have logged in the U-Pass website, this step may be skipped.
 
-8. Link your Compass Card by entering the 20-digits and [CVN](glossary.md\#cvn) on the back of your Compass Card
+8. Link your Compass Card by entering the 20-digits and [CVN](glossary.md\#cvn) on the back of your Compass Card.
 
     !!!Note 
         This step may be skipped if you have already linked your Compass Card.
