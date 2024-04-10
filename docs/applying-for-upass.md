@@ -6,7 +6,7 @@ This section guides you through applying for your [U-Pass](glossary.md\#u-pass).
 !!! Warning "Check!"
     To apply for your U-Pass, ensure you've paid your full tuition. Additionally, U-Pass applications open on the 16th of each month.
 
-1. Log in to **<u>[myBCIT](https://my.bcit.ca/)</u>**.
+1. Log in to **<u>[myBCIT](https://my.bcit.ca/){:target="_blank"}</u>**.
 
 2. Click **U-Pass BC**.
 
