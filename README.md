@@ -12,13 +12,14 @@ These are the topics of this document:
 - Applying for U-Pass
 
 
-
 ## How We Collaborated Together
 ## How We Created Our Guide
+We created our guide using our experience from preparation 
+
 
 ### Using Markdown
 ### Using VS Code
-### Using a Style Guide
+
 ### Learning Best Practices For Web Writing
 #### Readability
 #### Chunking
