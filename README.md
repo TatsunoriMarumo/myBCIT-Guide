@@ -10,6 +10,10 @@ These are the topics of this document:
 
 
 ## How We Collaborated Together
+This user guide assignment was given during the second term of the CST program. We conducted this assignment in person and used Discord as a communication tool to assign tasks and schedule meetings.
+
+For collaboration on the document, we used Git and GitHub. Since we primarily worked on this assignment in person, we encountered few git conflicts.
+
 ## How We Created Our Guide
 ### Using Markdown
 ### Using VS Code
