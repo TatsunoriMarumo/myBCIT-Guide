@@ -13,19 +13,19 @@ These are the topics of this document:
 
 
 ## How We Collaborated Together
-This user guide assignment was given during the second term of the CST program. We conducted this assignment in person and used Discord as a communication tool to assign tasks and schedule meetings.
+This user guide assignment was given during the second term of the [Computer Systems Technology](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/) program in BCIT. We conducted this assignment in person and used Discord as a communication tool to assign tasks and schedule meetings.
 
 For collaboration on the document, we used Git and GitHub. Since we primarily worked on this assignment in person, we encountered few git conflicts.
 
 ## How We Created Our Guide
 We created our guide using our experience from preparation 
 
+### Using MkDocks
+We utilized MkDocks as our static site generator.
 
 ### Using Markdown
 ### Using VS Code
 
 ### Learning Best Practices For Web Writing
 #### Readability
-#### Chunking
-#### Tone
 ## Conclusion
