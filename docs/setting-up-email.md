@@ -47,7 +47,7 @@ By default, to check for new emails, you need to visit my BCIT site each time, w
         [![Click My Mail](..\Assets\setting-up-email-image\click-setting.png)](..\Assets\setting-up-email-image\click-setting.png){:target="_blank"}
 
 ## Set up signature
-When sending emails to instructors or school, you need to include your name, student ID, program, and set name. This can be tedious to enter each time and easy to forget. To avoid this, setting up a signature that automatically adds the necessary information at the bottom of your emails is also strongly recommended.
+When sending emails to instructors or school, you need to include your name, [student ID](glossary.md\#student-id), program, and [set](glossary.md\#set) name. This can be tedious to enter each time and easy to forget. To avoid this, setting up a signature that automatically adds the necessary information at the bottom of your emails is also strongly recommended.
 
 1. Follow the **Step 1 - 3** of **[Set up forwarding](#set-up-forwarding)**.
 
@@ -63,7 +63,7 @@ When sending emails to instructors or school, you need to include your name, stu
         ```
         FirstName LastName
         Your Program (Example: CST Diploma)
-        A########(Your studentID), Term 1, Set# (Your [set](glossary.md\#set))
+        A########(Your studentID), Term 1, Set# (Your set)
 
         ```
 

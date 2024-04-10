@@ -18,4 +18,3 @@
 | <span id="student-id">**Student ID**</span> | A unique identifier at BCIT, starting with 'A' followed by 8 digits, used for identification and access to services |
 | <span id ="tuition">**Tuition**</span> | The cost of your education at BCIT, typically paid each term |
 | <span id="u-pass">**U-Pass**</span> | A transit pass program providing unlimited bus, SkyTrain, and SeaBus travel for students in BC |
-| <span id="verification code">**Verification code**</span> | A code sent to you to confirm your identity, often used in two-factor authentication |
