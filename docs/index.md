@@ -39,6 +39,3 @@ Here's the main sections in this guide. You can jump to the section you wish to 
 :track_next: [Setting up BCIT email](setting-up-email)
 
 :track_next: [Applying for U-Pass](applying-for-upass.md)
-
-
-
