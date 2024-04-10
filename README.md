@@ -6,7 +6,11 @@ The purpose of this documentation is to guide you through the preparations neede
 
 These are the topics of this document:
 
-- 
+- Introducing this document
+- Paying commitment fee and tuition
+- Setting up myBCIT email
+- Applying for U-Pass
+
 
 
 ## How We Collaborated Together
@@ -15,6 +19,7 @@ This user guide assignment was given during the second term of the CST program. 
 For collaboration on the document, we used Git and GitHub. Since we primarily worked on this assignment in person, we encountered few git conflicts.
 
 ## How We Created Our Guide
+
 ### Using Markdown
 ### Using VS Code
 ### Using a Style Guide
