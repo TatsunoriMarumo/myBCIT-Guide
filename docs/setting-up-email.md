@@ -29,11 +29,11 @@ By default, to check for new emails, you need to visit my BCIT site each time, w
 
 6. Set up forwarding.
 
-    i. In the **Filter Name** box, give a name to your [filter](glossary.md/#filter) (example: Forwarding).
+    i. In the **Filter Name** box, give a name to your [filter](glossary.md\#filter) (example: Forwarding).
 
     ii. Select **All messages** under **For incoming mail**.
 
-    iii. Click on the [drop-down menu](glossary.md/#drop-down-menu) under **...execute the following actions**, and Select **Redirect message to**.
+    iii. Click on the [drop-down menu](glossary.md\#drop-down-menu) under **...execute the following actions**, and Select **Redirect message to**.
 
     iv. In the text-input field to the right, enter the destination email address where you want incoming emails to be forwarded.
     
@@ -63,7 +63,7 @@ When sending emails to instructors or school, you need to include your name, stu
         ```
         FirstName LastName
         Your Program (Example: CST Diploma)
-        A########(Your studentID), Term 1, Set# (Your set)
+        A########(Your studentID), Term 1, Set# (Your [set](glossary.md\#set))
 
         ```
 
