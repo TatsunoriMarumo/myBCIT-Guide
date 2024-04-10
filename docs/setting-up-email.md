@@ -40,7 +40,7 @@ By default, to check for new emails, you need to visit my BCIT site each time, w
     !!!Note
         If you want to forward to more than 1 email address, click on the **+** to add another email.
 
-7. Click save.
+7. Click **save**.
 
     !!!Quote ""
         **Step 3 - 7**
