@@ -18,7 +18,7 @@ This user guide assignment was given during the second term of the [Computer Sys
 For collaboration on the document, we used Git and GitHub. Since we primarily worked on this assignment in person, we encountered few git conflicts.
 
 ## How We Created Our Guide
-We created our guide using our experience from preparation 
+We created our guide using our knowledge and experience from the preparation for the CST full-time program. 
 
 ### Using MkDocks
 We utilized MkDocks as our static site generator.
