@@ -23,6 +23,7 @@ Futhermore, when sending emails to instructors or school, you need to include yo
 
     
      > ✏️ The image for Steps 3 - 7 is shown together in after Step 7.
+     
 3. Click **Setting**.
 
 4. Click **Filters**.
