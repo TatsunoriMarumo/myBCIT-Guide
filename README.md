@@ -31,7 +31,7 @@ VS Code was our primary tool for editing and previewing the Markdown content. It
 
 ### Learning Best Practices For Web Writing
 Even in a busy situation, we frequently discussed our project and notified each other when document was updated. We greatly appreciate this practice  as it helped us keep track of our team member's tasks and made it clear what needed to be done.
-#### Readability
+
 ## Conclusion
 We have created this guide using the web design knowledge and documentation skills we learned in CST to make it easier for all new students entering BCIT to understand. 
 
