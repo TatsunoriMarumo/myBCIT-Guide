@@ -45,7 +45,7 @@ This section guides you through applying for your [U-Pass](glossary.md\#u-pass).
         This step may be skipped if you have already linked your Compass Card.
 
 
-9. Check the box for Month you want to apply for, then click **Request**.
+9. Check the box for month you want to apply for, then click **Request**.
 
     !!! Quote ""
         [![U-Pass BC request](..\Assets\applying-u-pass-image\request-u-pass.png)](..\Assets\applying-u-pass-image\request-u-pass.png){:target="_blank"}
