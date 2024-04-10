@@ -3,14 +3,12 @@
 This section provides step-by-step instruction on how to configure your myBCIT email settings. myBCIT email is is primarily used for 
 
 - communication with instructors and school 
-- registration on external sites or tools where student services are available
-- use of school's facility such as printers and Wi-Fi.
+- registration on external sites or tools where student services are available.
 
-By default, to check for new emails, you need to visit my BCIT site each time, which is not only time consuming, but also increases the risk of missing important messages. Therefore, setting up [forwarding](glossary.md\#forwarding) to an email account you use on your device is highly recommended. 
+To prepare your myBCIT email for the program, it's important to configure both email [forwarding](glossary.md\#forwarding) and [signature](glossary.md\#signature). 
 
-Futhermore, when sending emails to instructors or school, you need to include your name, student ID, program, and set name. This can be tedious to enter each time and easy to forget. To avoid this, setting up a [signature](glossary.md\#signature) that automatically adds the necessary information at the bottom of your emails is also strongly recommended.
-
-## Set up forwarding
+## Set Up Forwarding
+By default, to check for new emails, you need to visit my BCIT site each time, which is not only time consuming, but also increases the risk of missing important messages. Therefore, setting up forwarding to an email account you use on your device is highly recommended. 
 
 1. Login to **<u>[myBCIT](https://my.bcit.ca){:target="_blank"}</u>**.
 
@@ -48,15 +46,16 @@ Futhermore, when sending emails to instructors or school, you need to include yo
         [![Click My Mail](..\Assets\setting-up-email-image\click-setting.png)](..\Assets\setting-up-email-image\click-setting.png){:target="_blank"}
 
 ## Set up signature
+Futhermore, when sending emails to instructors or school, you need to include your name, student ID, program, and set name. This can be tedious to enter each time and easy to forget. To avoid this, setting up a signature that automatically adds the necessary information at the bottom of your emails is also strongly recommended.
 
 1. Follow the **Step 1 - 3** of **[Set up forwarding](#set-up-forwarding)**.
 
 2. Click **Identities**.
 > ✏️ The image for Steps 2 - 5 is shown together in after Step 5.
 
-1. Click **your myBCIT email address**.
+3. Click **your myBCIT email address**.
 
-3. Set up **Signature**.
+4. Set up **Signature**.
 
     !!!Note
         The example of email signature for myBCIT email:
@@ -67,7 +66,7 @@ Futhermore, when sending emails to instructors or school, you need to include yo
 
         ```
 
-4. Click **Save**.
+5. Click **Save**.
 
     !!! Quote ""
         **Step 2 - 5**
