@@ -1,7 +1,5 @@
 # **Setting up myBCIT email**
 
-## Overview
-
 This section provides step-by-step instruction on how to configure your myBCIT email settings. myBCIT email is is primarily used for 
 
 - communication with instructors and school 

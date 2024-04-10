@@ -1,6 +1,5 @@
 # **Applying for U-Pass**
 
-## Overview
 This section guides you through applying for your [U-Pass](glossary.md\#u-pass). BCIT provides affordable access to public transportation for full-time students. Follow these instructions to ensure you can use your U-Pass to connect your [Compass Card](glossary.md/#compass-card) for convenient commute to school.
 
 ## Apply for U-Pass
