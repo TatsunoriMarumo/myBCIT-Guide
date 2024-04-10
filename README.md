@@ -4,6 +4,10 @@ Welcome! This documentation will show you how to use myBCIT which is a portal fo
 
 The purpose of this documentation is to guide you through the preparations needed before starting a full-time program at BCIT. It outlines the critical tasks you must complete, as well as suggestions for a successful program start.
 
+These are the topics of this document:
+
+- 
+
 
 ## How We Collaborated Together
 ## How We Created Our Guide
