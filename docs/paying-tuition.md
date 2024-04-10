@@ -46,7 +46,7 @@ After checking your current balance, proceed with making your payment through On
 >✏️ Steps 1 - 4 may differ in order depending on your bank.
 
 1. Login to your bank account.
-2. Add a new bill payee and search for **BCIT**.
+2. Add a new bill [payee](glossary.md\#payee) and search for **BCIT**.
 3. Choose **BCIT - Tuition Payments** and enter your student ID as your [account number](glossary.md\#account-number).
 
     !!! Warning
