@@ -6,11 +6,16 @@ The purpose of this documentation is to guide you through the preparations neede
 
 These are the topics of this document:
 
-- 
+- Introducing this document
+- Paying commitment fee and tuition
+- Setting up myBCIT email
+- Applying for U-Pass
+
 
 
 ## How We Collaborated Together
 ## How We Created Our Guide
+
 ### Using Markdown
 ### Using VS Code
 ### Using a Style Guide
