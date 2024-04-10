@@ -41,7 +41,7 @@ Your current balance shows the amount you owe to BCIT. It's important to check t
 
 
 ## Pay Using Online Banking (Bill Payment)
-After checking your current balance, proceed with making your payment through online banking(Bill Payment). BCIT recommends using online banking. If you prefer to pay in person or encounter any issues with payment, click **[here](troubleshooting.md) for assistance.**
+After checking your current balance, proceed with making your payment through Online Banking(Bill Payment). BCIT recommends using Online Banking. If you prefer to pay in person or encounter any issues with payment, click **[here](troubleshooting.md) for assistance.**
 
 >✏️ Steps 1 - 4 may differ in order depending on your bank.
 
