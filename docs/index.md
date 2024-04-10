@@ -13,18 +13,11 @@ This documentation is targeted for Individuals who have received an acceptance l
 Before you dive into this document, make sure you have
 
 - an acceptance letter for BCIT's full-time program
-- access to myBCIT
+- a myBCIT account
 - a residence in Canada
 - a Canadian bank account
 - a Compass Card.
 
-
-## Overview
-Here's a summary of the main sections in this guide:
-
-- [Paying commitment fee and tuition](paying-tuition)
-- [Setting up BCIT email](setting-up-email)
-- [Applying for U-Pass](applying-for-upass.md)
 
 ## Important Messages
 In this guide, we'll use message blocks to highlight important information. Here are the types of messages you'll see.
@@ -37,5 +30,15 @@ In this guide, we'll use message blocks to highlight important information. Here
 
 !!! warning
     Specifies what must be checked before proceeding
+
+## Documentation Structure
+Here's the main sections in this guide. You can jump to the section you wish to check by clicking the links below:
+
+:track_next: [Paying commitment fee and tuition](paying-tuition)
+
+:track_next: [Setting up BCIT email](setting-up-email)
+
+:track_next: [Applying for U-Pass](applying-for-upass.md)
+
 
 
