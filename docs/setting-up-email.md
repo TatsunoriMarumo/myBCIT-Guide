@@ -23,7 +23,7 @@ Futhermore, when sending emails to instructors or school, you need to include yo
 
     
      > ✏️ The image for Steps 3 - 7 is shown together in after Step 7.
-     
+
 3. Click **Setting**.
 
 4. Click **Filters**.
@@ -36,7 +36,7 @@ Futhermore, when sending emails to instructors or school, you need to include yo
 
     ii. Select **All messages** under **For incoming mail**.
 
-    iii. Click on [drop-down menu](glossary/#drop-down-menu) under **...execute the following actions**, and Select **Redirect message to**.
+    iii. Click on the [drop-down menu](glossary.md/#drop-down-menu) under **...execute the following actions**, and Select **Redirect message to**.
 
     iv. In the text-input field to the right, enter the destination email address where you want incoming emails to be forwarded.
     
