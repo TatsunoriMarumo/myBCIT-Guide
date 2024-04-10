@@ -10,7 +10,7 @@ In this section, we will guide you through the process of paying your [commitmen
 ## Check Current Balance
 Your current balance shows the amount you owe to BCIT. It's important to check this so you know exactly how much you need to pay. You'll use this information when making your payment.
 
-1. Login to **<u>[myBCIT](https://my.bcit.ca/)</u>**.
+1. Login to **<u>[myBCIT](https://my.bcit.ca/){:target="_blank"}</u>**.
 
     !!!Quote ""
         [![Image of login page](..\Assets\paying-tuition-image\login.png)](..\Assets\paying-tuition-image\login.png){:target="_blank"}
