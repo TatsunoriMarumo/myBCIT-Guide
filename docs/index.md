@@ -1,6 +1,6 @@
 # **Introduction**
 
-Congratulations🎊✨ You've been accepted into one of Canada's top colleges! This guide will help you prepare for your first day at BCIT and navigate **<u>[myBCIT](https://my.bcit.ca/)</u>**, which you should become familiar with to achieve a successful student life. 
+Congratulations🎊✨ You've been accepted into one of Canada's top colleges! This guide will help you prepare for your first day at BCIT and navigate **<u>[myBCIT](https://my.bcit.ca/){:target="_blank"}</u>**, which you should become familiar with to achieve a successful student life. 
 
 > **myBCIT** is a portal for students and employees to access common resources such as myBCIT email, course information, and self-service options like course registration, course grades, tax forms (T2202A and T4) and more.
 
