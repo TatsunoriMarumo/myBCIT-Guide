@@ -57,7 +57,7 @@ After checking your current balance, proceed with making your payment through on
 4. Enter the current balance and complete your payment.
 
     !!!Note
-        BCIT does **NOT** send a confirmation notification for your payment. Ensure your keep the bank receipt as proof in case any issues arise. 
+        BCIT does **NOT** send a confirmation notification for your payment. Ensure you keep the bank receipt as proof in case any issues arise. 
 
 5. Check that your current balance in myBCIT has updated to **$.00**.
 
