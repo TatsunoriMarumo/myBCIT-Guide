@@ -18,9 +18,10 @@ By default, to check for new emails, you need to visit my BCIT site each time, w
         [![Click My Mail](..\Assets\setting-up-email-image\click-my-mail.png)](..\Assets\setting-up-email-image\click-my-mail.png){:target="_blank"}
 
     
-     > ✏️ The image for Steps 3 - 7 is shown together in after Step 7.
 
 3. Click **Setting**.
+
+     > ✏️ The image for Steps 3 - 7 is shown together in after Step 7.
 
 4. Click **Filters**.
 
@@ -46,7 +47,7 @@ By default, to check for new emails, you need to visit my BCIT site each time, w
         [![Click My Mail](..\Assets\setting-up-email-image\click-setting.png)](..\Assets\setting-up-email-image\click-setting.png){:target="_blank"}
 
 ## Set up signature
-Futhermore, when sending emails to instructors or school, you need to include your name, student ID, program, and set name. This can be tedious to enter each time and easy to forget. To avoid this, setting up a signature that automatically adds the necessary information at the bottom of your emails is also strongly recommended.
+When sending emails to instructors or school, you need to include your name, student ID, program, and set name. This can be tedious to enter each time and easy to forget. To avoid this, setting up a signature that automatically adds the necessary information at the bottom of your emails is also strongly recommended.
 
 1. Follow the **Step 1 - 3** of **[Set up forwarding](#set-up-forwarding)**.
 
