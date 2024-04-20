@@ -8,7 +8,7 @@ This section provides step-by-step instruction on how to configure your myBCIT e
 To prepare your myBCIT email for the program, it's important to configure both email [forwarding](glossary.md\#forwarding) and [signature](glossary.md\#signature). 
 
 ## Set Up Forwarding
-By default, to check for new emails, you need to visit my BCIT site each time, which is not only time consuming, but also increases the risk of missing important messages. Therefore, setting up forwarding to an email account you use on your device is highly recommended. 
+By default, to check for new emails, you need to visit myBCIT site each time, which is not only time consuming, but also increases the risk of missing important messages. Therefore, setting up forwarding to an email account you use on your device is highly recommended. 
 
 1. Login to **<u>[myBCIT](https://my.bcit.ca){:target="_blank"}</u>**.
 
