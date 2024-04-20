@@ -50,7 +50,7 @@ After checking your current balance, proceed with making your payment through On
 3. Choose **BCIT - Tuition Payments** and enter your student ID as your [account number](glossary.md\#account-number).
 
     !!! Warning
-        Do **NOT** choose **BCIT - Rent Payments**. This options is intended for paying housing fee payments.
+        Do **NOT** choose **BCIT - Rent Payments**. This option is intended for paying housing fee payments.
 
 4. Enter the current balance and complete your payment.
 
