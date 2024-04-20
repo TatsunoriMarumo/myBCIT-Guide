@@ -11,16 +11,22 @@ These are the topics of this document:
 - Setting up myBCIT email
 - Applying for U-Pass
 
+## Contributors
+This documentation is a collaborative effort by two second-term students from the British Columbia Institute of Technology (BCIT):
+
+- Momona Wada (GitHub: [Momona-Wada](https://github.com/Momona-Wada))
+- Tatsunori Marumo (GitHub: [TatsunoriMarumo](https://github.com/TatsunoriMarumo))
+
 
 ## How We Collaborated Together
 This guide was developed during our second term in the <u>[Computer Systems Technology](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/)</u> (CST) program at BCIT. We worked on this project in person and used Discord as a communication tool to assign tasks and schedule meetings.
 
-For collaboration on the document, we used Git and GitHub. Since we primarily worked on this assignment in person, we encountered few git conflicts.
+For collaboration on the document, we used Git and GitHub. Since we primarily worked on this assignment in person, we encountered few Git conflicts.
 
 ## How We Created Our Guide
 We created our guide using our knowledge and experience from the preparation for the CST full-time program. 
 
-### Using MkDocks
+### Using MkDocs
 Using MkDocs allowed us to flexibly customize the design. Its ease of use and simple implementation enabled us to focus efficiently on documentation without having to spend a lot of time on technical aspects.
 
 ### Using Markdown
@@ -30,7 +36,7 @@ Using Markdown made it easier to implement various features such as links and te
 VS Code was our primary tool for editing and previewing the Markdown content. It made our writing process easier to manage the documentation project with its useful extensions such as spell checker.
 
 ### Learning Best Practices For Web Writing
-Even in a busy situation, we frequently discussed our project and notified each other when document was updated. We greatly appreciate this practice  as it helped us keep track of our team member's tasks and made it clear what needed to be done.
+Even in busy situations, we frequently discussed our project and notified each other when the document was updated. We greatly appreciate this practice as it helped us keep track of our team members' tasks and made it clear what needed to be done.
 
 ## Conclusion
 We have created this guide using the web design knowledge and documentation skills we learned in CST to make it easier for all new students entering BCIT to understand. 
